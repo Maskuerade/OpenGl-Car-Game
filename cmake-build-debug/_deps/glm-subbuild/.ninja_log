@@ -1,0 +1,21 @@
+# ninja log v5
+0	58	7231337320398988	glm-populate-prefix/src/glm-populate-stamp/glm-populate-mkdir	cfe881ab4bb5c7b4
+0	58	7231337320398988	D:/projects/Graphics Design/project_2/cmake-build-debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-mkdir	cfe881ab4bb5c7b4
+59	25569	7231337575501452	glm-populate-prefix/src/glm-populate-stamp/glm-populate-download	6e22d70746002f5
+59	25569	7231337575501452	D:/projects/Graphics Design/project_2/cmake-build-debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-download	6e22d70746002f5
+25569	25703	0	glm-populate-prefix/src/glm-populate-stamp/glm-populate-update	d28542df8a89d53f
+25569	25703	0	D:/projects/Graphics Design/project_2/cmake-build-debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-update	d28542df8a89d53f
+25703	25773	7231337577537568	glm-populate-prefix/src/glm-populate-stamp/glm-populate-patch	2172451836bdc8a6
+25703	25773	7231337577537568	D:/projects/Graphics Design/project_2/cmake-build-debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-patch	2172451836bdc8a6
+25773	25838	7231337578171092	glm-populate-prefix/src/glm-populate-stamp/glm-populate-configure	67e6eb8ce960f8a
+25773	25838	7231337578171092	D:/projects/Graphics Design/project_2/cmake-build-debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-configure	67e6eb8ce960f8a
+25838	25904	7231337578853221	glm-populate-prefix/src/glm-populate-stamp/glm-populate-build	45b73207410018a3
+25838	25904	7231337578853221	D:/projects/Graphics Design/project_2/cmake-build-debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-build	45b73207410018a3
+25904	25972	7231337579529836	glm-populate-prefix/src/glm-populate-stamp/glm-populate-install	a76075d885d57cd
+25904	25972	7231337579529836	D:/projects/Graphics Design/project_2/cmake-build-debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-install	a76075d885d57cd
+25972	26043	7231337580231099	glm-populate-prefix/src/glm-populate-stamp/glm-populate-test	e8705bbea07808d7
+25972	26043	7231337580231099	D:/projects/Graphics Design/project_2/cmake-build-debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-test	e8705bbea07808d7
+26043	26130	7231337581112378	CMakeFiles/glm-populate-complete	29af1854260fe889
+26043	26130	7231337581112378	glm-populate-prefix/src/glm-populate-stamp/glm-populate-done	29af1854260fe889
+26043	26130	7231337581112378	D:/projects/Graphics Design/project_2/cmake-build-debug/_deps/glm-subbuild/CMakeFiles/glm-populate-complete	29af1854260fe889
+26043	26130	7231337581112378	D:/projects/Graphics Design/project_2/cmake-build-debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-done	29af1854260fe889
